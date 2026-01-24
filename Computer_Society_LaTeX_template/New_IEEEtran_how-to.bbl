@@ -96,4 +96,14 @@ D.~Huang, J.~M. Zhang, M.~Harman, Q.~Zhang, M.~Du, and S.-K. Ng, ``Benchmarking 
 M.~Gkikopouli and B.~Bataa, ``Empirical comparison between conventional and ai-based automated unit test generation tools in java,'' p.~30, 6 2023. [Online]. Available: \url{https://www.diva-portal.org/smash/record.jsf?pid=diva2%3A1764443&dswid=4942}
 \BIBentrySTDinterwordspacing
 
+\bibitem{Baltes2025}
+\BIBentryALTinterwordspacing
+S.~Baltes, F.~Angermeir, C.~Arora, M.~M. Barón, C.~Chen, L.~Böhme, F.~Calefato, N.~Ernst, D.~Falessi, B.~Fitzgerald, D.~Fucci, M.~Kalinowski, S.~Lambiase, D.~Russo, M.~Lungu, L.~Prechelt, P.~Ralph, R.~van Tonder, C.~Treude, and S.~Wagner, ``Guidelines for empirical studies in software engineering involving large language models,'' 9 2025. [Online]. Available: \url{https://arxiv.org/abs/2508.15503}
+\BIBentrySTDinterwordspacing
+
+\bibitem{Trinkenreich2025}
+\BIBentryALTinterwordspacing
+B.~Trinkenreich, F.~Calefato, G.~Hanssen, K.~Blincoe, M.~Kalinowski, M.~Pezzè, P.~Tell, and M.~A. Storey, ``Get on the train or be left on the station: Using llms for software engineering research,'' in \emph{Proceedings of the ACM SIGSOFT Symposium on the Foundations of Software Engineering}.\hskip 1em plus 0.5em minus 0.4em\relax Association for Computing Machinery, 7 2025, pp. 1503--1507. [Online]. Available: \url{https://dl.acm.org/doi/10.1145/3696630.3731666}
+\BIBentrySTDinterwordspacing
+
 \end{thebibliography}
