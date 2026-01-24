@@ -1,15 +1,15 @@
 # Fdb version 4
-["bibtex New_IEEEtran_how-to"] 1769282650.32227 "New_IEEEtran_how-to.aux" "New_IEEEtran_how-to.bbl" "New_IEEEtran_how-to" 1769282645.40895 0
+["bibtex New_IEEEtran_how-to"] 1769282795.41217 "New_IEEEtran_how-to.aux" "New_IEEEtran_how-to.bbl" "New_IEEEtran_how-to" 1769282790.95464 0
   "./references.bib" 1769273618.22779 43117 fcc8b272d4c8553320c745eca5ee06e3 ""
   "/usr/share/texlive/texmf-dist/bibtex/bst/ieeetran/IEEEtran.bst" 1440712899 57748 7c8250ecf02814ce6ddc0cdbb63df1dd ""
-  "New_IEEEtran_how-to.aux" 1769282645.15418 11783 e00ee792ae0ff578efbc0e0e43fd8b31 "pdflatex"
+  "New_IEEEtran_how-to.aux" 1769282790.71745 13177 60bbee2348f638016d274949d9f5a44b "pdflatex"
   (generated)
   "New_IEEEtran_how-to.bbl"
   "New_IEEEtran_how-to.blg"
   (rewritten before read)
-["pdflatex"] 1769282644.44511 "/home/solv8/tesis/Computer_Society_LaTeX_template/New_IEEEtran_how-to.tex" "New_IEEEtran_how-to.pdf" "New_IEEEtran_how-to" 1769282645.40909 0
+["pdflatex"] 1769282790.04229 "/home/solv8/tesis/Computer_Society_LaTeX_template/New_IEEEtran_how-to.tex" "New_IEEEtran_how-to.pdf" "New_IEEEtran_how-to" 1769282790.95478 0
   "/etc/texmf/web2c/texmf.cnf" 1763090292.88968 475 c0e671620eb5563b2130f56340a5fde8 ""
-  "/home/solv8/tesis/Computer_Society_LaTeX_template/New_IEEEtran_how-to.tex" 1769282644.55374 62206 2f7fa1fafb929a7bee6d682a4c2062ae ""
+  "/home/solv8/tesis/Computer_Society_LaTeX_template/New_IEEEtran_how-to.tex" 1769282795.1904 66357 29ce0c590a3c9fe8c27716d177eaed23 ""
   "/usr/share/texlive/texmf-dist/fonts/enc/dvips/base/8r.enc" 1165713224 4850 80dc9bab7f31fb78a000ccfed0e27cab ""
   "/usr/share/texlive/texmf-dist/fonts/map/fontname/texfonts.map" 1577235249 3524 cb3e574dea2d1052e39280babc910dc8 ""
   "/usr/share/texlive/texmf-dist/fonts/tfm/adobe/courier/pcrr7t.tfm" 1136768653 960 379cc0019370a9e0208a0a3f949f847a ""
@@ -214,10 +214,10 @@
   "/usr/share/texmf/web2c/texmf.cnf" 1707919699 40399 f2c302f7d2af602abb742093540a5834 ""
   "/var/lib/texmf/fonts/map/pdftex/updmap/pdftex.map" 1763090317.14293 5472669 54eaf61a88b6b7896ebd0dac973cb29c ""
   "/var/lib/texmf/web2c/pdftex/pdflatex.fmt" 1763090333 8212733 e1027fab9e467450d9973cfccff89aca ""
-  "New_IEEEtran_how-to.aux" 1769282645.15418 11783 e00ee792ae0ff578efbc0e0e43fd8b31 "pdflatex"
-  "New_IEEEtran_how-to.bbl" 1769282644.42818 7016 d01d3e25d9a6e3daf1c72e80bac61f40 "bibtex New_IEEEtran_how-to"
-  "New_IEEEtran_how-to.out" 1769282645.15418 8831 03e35f73055b2cf0e690b861acf3a46f "pdflatex"
-  "New_IEEEtran_how-to.tex" 1769282644.55374 62206 2f7fa1fafb929a7bee6d682a4c2062ae ""
+  "New_IEEEtran_how-to.aux" 1769282790.71745 13177 60bbee2348f638016d274949d9f5a44b "pdflatex"
+  "New_IEEEtran_how-to.bbl" 1769282795.5248 7016 d01d3e25d9a6e3daf1c72e80bac61f40 "bibtex New_IEEEtran_how-to"
+  "New_IEEEtran_how-to.out" 1769282790.71745 9538 cf7a059cf6330a9b7fe09702432258be "pdflatex"
+  "New_IEEEtran_how-to.tex" 1769282795.1904 66357 29ce0c590a3c9fe8c27716d177eaed23 ""
   "fig1.png" 1633101966.7829 37986 d648cf25b5ad3b3d5099b08ddbf9e2dd ""
   (generated)
   "New_IEEEtran_how-to.aux"

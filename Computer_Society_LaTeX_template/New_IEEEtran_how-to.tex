@@ -395,6 +395,99 @@ Time Execution & AI & 0.114 & 0.003 & 0.232 \\
 
 The differences between means and medians observed in some metrics indicate that the data do not follow a completely symmetrical distribution. This behavior is reflected at both levels of analysis and is reported for consideration in subsequent statistical stages.
 
+\subsection{Verification of statistical assumptions}
+
+Statistical assumptions were validated in order to determine the relevance of applying parametric or nonparametric tests in inferential analyses. Two fundamental conditions were evaluated: normality of distributions and homogeneity of variances, both considered standard requirements for the use of Student's t-test and its variants.
+
+\subsubsection{Normality (Shapiro-Wilk)}
+
+The normality of the metrics was assessed using the Shapiro-Wilk test, applied both at the complete level of individual records (N = 2,480) and at the aggregate level by test class (N = 12). At the complete level, none of the distributions evaluated had p-values greater than 0.05, indicating an absence of normality. In contrast, at the aggregate level, all metrics showed p-values greater than 0.05 for both approaches, fulfilling the assumption of normality.
+
+Table~\ref{tab:normality-wilk-n2480} presents the Shapiro-Wilk test results at the complete level (N = 2,480), showing normality assessment for all metrics across both manual and AI approaches.
+
+\begin{table}[!h]
+\caption{\label{tab:normality-wilk-n2480}Shapiro-Wilk normality test (Manual N = 1600, AI N = 880; Full level, N = 2,480).}
+\centering
+\footnotesize
+\begin{tabular}{| p{1.9cm} | p{0.8cm} | p{0.7cm} | p{1.0cm} | p{1.0cm} |}
+\hline
+Metrics & Group & W & p-value & Normality \\
+\hline
+Instr Coverage & Manual & 0.8160 & 2.34e-39 & No \\
+\hline
+Instr Coverage & AI & 0.7524 & 2.66e-34 & No \\
+\hline
+Branch Coverage & Manual & 0.8178 & 3.21e-39 & No \\
+\hline
+Branch Coverage & AI & 0.8697 & 1.96e-26 & No \\
+\hline
+Mutation Score & Manual & 0.8404 & 2.46e-37 & No \\
+\hline
+Mutation Score & AI & 0.8313 & 1.82e-29 & No \\
+\hline
+Time Execution & Manual & 0.4797 & 8.07e-56 & No \\
+\hline
+Time Execution & AI & 0.5354 & 4.67e-43 & No \\
+\hline
+\end{tabular}
+\end{table}
+
+Table~\ref{tab:normality-wilk-n12} shows the Shapiro-Wilk test results at the aggregate level (N = 12), demonstrating that all metrics meet the normality assumption at this level of analysis.
+
+\begin{table}[!h]
+\caption{\label{tab:normality-wilk-n12}Shapiro-Wilk normality test (Manual N = 6, AI N = 6; Aggregate level, N = 12).}
+\centering
+\footnotesize
+\begin{tabular}{| p{1.9cm} | p{0.8cm} | p{0.7cm} | p{0.9cm} | p{1.0cm} |}
+\hline
+Metrics & Group & W & p-value & Normality \\
+\hline
+Instr Coverage & Manual & 0.9087 & 0.4281 & Yes \\
+\hline
+Instr Coverage & AI & 0.9038 & 0.3971 & Yes \\
+\hline
+Branch Coverage & Manual & 0.8807 & 0.2722 & Yes \\
+\hline
+Branch Coverage & AI & 0.9127 & 0.4541 & Yes \\
+\hline
+Mutation Score & Manual & 0.9132 & 0.4581 & Yes \\
+\hline
+Mutation Score & AI & 0.9720 & 0.9056 & Yes \\
+\hline
+Time Execution & Manual & 0.9296 & 0.5771 & Yes \\
+\hline
+Time Execution & AI & 0.8507 & 0.1596 & Yes \\
+\hline
+\end{tabular}
+\end{table}
+
+These results indicate that only the aggregate level meets the normality assumption, while the complete level requires the use of nonparametric tests as it does not conform to normal distributions.
+
+\subsubsection{Homogeneity of variances (Levene)}
+
+The homogeneity of variances between the manual and AI groups was evaluated using Levene's test. In three of the four metrics analyzed—instruction coverage, branch coverage, and mutation score—values of $p > 0.05$ were observed, indicating equality of variances between groups. In contrast, execution time presented $p < 0.05$, which shows heterogeneity of variances and requires the application of Welch's correction in the parametric analysis.
+
+Table~\ref{tab:levene-test-n12} displays the results of Levene's test for homogeneity of variances at the aggregate level (N = 12).
+
+\begin{table}[!h]
+\caption{\label{tab:levene-test-n12}Levene's test for homogeneity of variances (N = 12).}
+\centering
+\footnotesize
+\begin{tabular}{| p{2.0cm} | p{0.8cm} | p{0.9cm} | p{1.3cm} |}
+\hline
+Metrics & F. Stat & p-value & Homogeneity \\
+\hline
+Instr Coverage & 0.1006 & 0.7577 & Yes \\
+\hline
+Branch Coverage & 0.1262 & 0.7298 & Yes \\
+\hline
+Mutation Score & 0.3930 & 0.5448 & Yes \\
+\hline
+Time Execution & 6.3679 & 0.0302 & No \\
+\hline
+\end{tabular}
+\end{table}
+
 \section{How to Create Common Front Matter}
 \noindent The following sections describe general coding for these common elements. Computer Society publications and Conferences may have their own special variations and will be noted below.
 \subsection{Paper Title}

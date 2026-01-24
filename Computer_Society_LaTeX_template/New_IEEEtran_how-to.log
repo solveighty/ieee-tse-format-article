@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.141592653-2.6-1.40.25 (TeX Live 2023/Debian) (preloaded format=pdflatex 2025.11.13)  24 JAN 2026 14:24
+This is pdfTeX, Version 3.141592653-2.6-1.40.25 (TeX Live 2023/Debian) (preloaded format=pdflatex 2025.11.13)  24 JAN 2026 14:26
 entering extended mode
  restricted \write18 enabled.
  file:line:error style messages enabled.
@@ -907,145 +907,300 @@ Overfull \hbox (3.77364pt too wide) in paragraph at lines 391--391
  []
 
 [5]
-LaTeX Font Info:    Trying to load font information for OT1+pcr on input line 403.
- (/usr/share/texlive/texmf-dist/tex/latex/psnfss/ot1pcr.fd
-File: ot1pcr.fd 2001/06/04 font definitions for OT1/pcr.
-)
-Overfull \hbox (6.0pt too wide) in paragraph at lines 413--413
-[]\OT1/pcr/m/n/10 \IEEEmembership{Fellow, IEEE}, Masaki Owari[] 
+Overfull \hbox (4.43484pt too wide) in paragraph at lines 414--415
+[]|\OT1/ptm/m/n/8 Normality| 
  []
 
 
-Underfull \hbox (badness 4467) in paragraph at lines 422--424
+Overfull \hbox (1.67747pt too wide) in paragraph at lines 416--416
+[]|\OT1/ptm/m/n/8 Manual| 
+ []
+
+
+Overfull \hbox (2.08316pt too wide) in paragraph at lines 416--416
+[]|\OT1/ptm/m/n/8 0.8160| 
+ []
+
+
+Overfull \hbox (2.08316pt too wide) in paragraph at lines 418--418
+[]|\OT1/ptm/m/n/8 0.7524| 
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 420--420
+[]|\OT1/ptm/m/n/8 Branch
+ []
+
+
+Overfull \hbox (1.67747pt too wide) in paragraph at lines 420--420
+[]|\OT1/ptm/m/n/8 Manual| 
+ []
+
+
+Overfull \hbox (2.08316pt too wide) in paragraph at lines 420--420
+[]|\OT1/ptm/m/n/8 0.8178| 
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 422--422
+[]|\OT1/ptm/m/n/8 Branch
+ []
+
+
+Overfull \hbox (2.08316pt too wide) in paragraph at lines 422--422
+[]|\OT1/ptm/m/n/8 0.8697| 
+ []
+
+
+Overfull \hbox (1.67747pt too wide) in paragraph at lines 424--424
+[]|\OT1/ptm/m/n/8 Manual| 
+ []
+
+
+Overfull \hbox (2.08316pt too wide) in paragraph at lines 424--424
+[]|\OT1/ptm/m/n/8 0.8404| 
+ []
+
+
+Overfull \hbox (2.08316pt too wide) in paragraph at lines 426--426
+[]|\OT1/ptm/m/n/8 0.8313| 
+ []
+
+
+Overfull \hbox (1.67747pt too wide) in paragraph at lines 428--428
+[]|\OT1/ptm/m/n/8 Manual| 
+ []
+
+
+Overfull \hbox (2.08316pt too wide) in paragraph at lines 428--428
+[]|\OT1/ptm/m/n/8 0.4797| 
+ []
+
+
+Overfull \hbox (2.08316pt too wide) in paragraph at lines 430--430
+[]|\OT1/ptm/m/n/8 0.5354| 
+ []
+
+
+Overfull \hbox (4.43484pt too wide) in paragraph at lines 443--444
+[]|\OT1/ptm/m/n/8 Normality| 
+ []
+
+
+Overfull \hbox (1.67747pt too wide) in paragraph at lines 445--445
+[]|\OT1/ptm/m/n/8 Manual| 
+ []
+
+
+Overfull \hbox (2.08316pt too wide) in paragraph at lines 445--445
+[]|\OT1/ptm/m/n/8 0.9087| 
+ []
+
+
+Overfull \hbox (2.08316pt too wide) in paragraph at lines 447--447
+[]|\OT1/ptm/m/n/8 0.9038| 
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 449--449
+[]|\OT1/ptm/m/n/8 Branch
+ []
+
+
+Overfull \hbox (1.67747pt too wide) in paragraph at lines 449--449
+[]|\OT1/ptm/m/n/8 Manual| 
+ []
+
+
+Overfull \hbox (2.08316pt too wide) in paragraph at lines 449--449
+[]|\OT1/ptm/m/n/8 0.8807| 
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 451--451
+[]|\OT1/ptm/m/n/8 Branch
+ []
+
+
+Overfull \hbox (2.08316pt too wide) in paragraph at lines 451--451
+[]|\OT1/ptm/m/n/8 0.9127| 
+ []
+
+
+Overfull \hbox (1.67747pt too wide) in paragraph at lines 453--453
+[]|\OT1/ptm/m/n/8 Manual| 
+ []
+
+
+Overfull \hbox (2.08316pt too wide) in paragraph at lines 453--453
+[]|\OT1/ptm/m/n/8 0.9132| 
+ []
+
+
+Overfull \hbox (2.08316pt too wide) in paragraph at lines 455--455
+[]|\OT1/ptm/m/n/8 0.9720| 
+ []
+
+
+Overfull \hbox (1.67747pt too wide) in paragraph at lines 457--457
+[]|\OT1/ptm/m/n/8 Manual| 
+ []
+
+
+Overfull \hbox (2.08316pt too wide) in paragraph at lines 457--457
+[]|\OT1/ptm/m/n/8 0.9296| 
+ []
+
+
+Overfull \hbox (2.08316pt too wide) in paragraph at lines 459--459
+[]|\OT1/ptm/m/n/8 0.8507| 
+ []
+
+
+LaTeX Warning: `!h' float specifier changed to `!ht'.
+
+
+Overfull \hbox (6.56299pt too wide) in paragraph at lines 478--479
+[]|\OT1/ptm/m/n/8 Homogeneity| 
+ []
+
+LaTeX Font Info:    Trying to load font information for OT1+pcr on input line 496.
+(/usr/share/texlive/texmf-dist/tex/latex/psnfss/ot1pcr.fd
+File: ot1pcr.fd 2001/06/04 font definitions for OT1/pcr.
+)
+Overfull \hbox (6.0pt too wide) in paragraph at lines 506--506
+[]\OT1/pcr/m/n/10 \IEEEmembership{Fellow, IEEE}, Masaki Owari[] 
+ []
+
+[6]
+Underfull \hbox (badness 4467) in paragraph at lines 515--517
 \OT1/ptm/m/n/10 tify IEEE mem-ber-ship sta-tus. Please see the ``IEEE-
  []
 
 
-Underfull \hbox (badness 1715) in paragraph at lines 439--440
+Underfull \hbox (badness 1715) in paragraph at lines 532--533
 \OT1/ptm/m/n/10 The ab-stract is the first el-e-ment of a pa-per af-ter the
  []
 
 
-Overfull \hbox (12.0pt too wide) in paragraph at lines 460--460
+Overfull \hbox (12.0pt too wide) in paragraph at lines 553--553
 []\OT1/pcr/m/n/10 \IEEEPARstart{T}{his} is the first paragraph 
  []
 
-[6]
 
-LaTeX Warning: Citation `ams' on page 7 undefined on input line 480.
+LaTeX Warning: Citation `ams' on page 7 undefined on input line 573.
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 480--481
+Underfull \hbox (badness 10000) in paragraph at lines 573--574
 
  []
 
 
-LaTeX Warning: Citation `ams' on page 7 undefined on input line 487.
+LaTeX Warning: Citation `ams' on page 7 undefined on input line 580.
 
 
-LaTeX Warning: Citation `oxford' on page 7 undefined on input line 487.
+LaTeX Warning: Citation `oxford' on page 7 undefined on input line 580.
 
 
-LaTeX Warning: Citation `lacomp' on page 7 undefined on input line 487.
+LaTeX Warning: Citation `lacomp' on page 7 undefined on input line 580.
 
-<fig1.png, id=336, 188.20313pt x 173.89969pt>
+<fig1.png, id=353, 188.20313pt x 173.89969pt>
 File: fig1.png Graphic file (type png)
 <use fig1.png>
-Package pdftex.def Info: fig1.png  used on input line 515.
+Package pdftex.def Info: fig1.png  used on input line 608.
 (pdftex.def)             Requested size: 180.67499pt x 166.95505pt.
-
-Underfull \hbox (badness 3281) in paragraph at lines 576--577
+[7]
+Underfull \hbox (badness 3281) in paragraph at lines 669--670
 \OT1/ptm/m/n/10 un-num-bered, num-bered and bul-leted. There have been
  []
 
 
-Underfull \hbox (badness 2213) in paragraph at lines 576--577
+Underfull \hbox (badness 2213) in paragraph at lines 669--670
 \OT1/ptm/m/n/10 be-low, please re-fer to the ``IEEE-tran[]HOWTO.pdf'' for
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 576--577
+Underfull \hbox (badness 10000) in paragraph at lines 669--670
 
  []
 
-[7 <./fig1.png>]
-Underfull \hbox (badness 5388) in paragraph at lines 658--659
+[8 <./fig1.png>]
+Underfull \hbox (badness 5388) in paragraph at lines 751--752
 \OT1/ptm/b/n/10 References Sim-pli-fied: \OT1/ptm/m/n/10 A sim-ple way of com-pos-ing
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 658--659
+Underfull \hbox (badness 10000) in paragraph at lines 751--752
 
  []
 
 
-Overfull \hbox (6.0pt too wide) in paragraph at lines 692--692
+Overfull \hbox (6.0pt too wide) in paragraph at lines 785--785
 []\OT1/pcr/m/n/10 \textit{International Journal of Modelling,[] 
  []
 
 
-Overfull \hbox (6.0pt too wide) in paragraph at lines 704--704
+Overfull \hbox (6.0pt too wide) in paragraph at lines 797--797
 []\OT1/pcr/m/n/10 systems using a port-controlled Hamiltonian[] 
  []
 
 
-Overfull \hbox (12.0pt too wide) in paragraph at lines 705--705
+Overfull \hbox (12.0pt too wide) in paragraph at lines 798--798
 []\OT1/pcr/m/n/10 description,'' in \textit{Proceedings of the[] 
  []
 
-[8]
 
 Package hyperref Warning: Token not allowed in a PDF string (Unicode):
-(hyperref)                removing `\\' on input line 745.
+(hyperref)                removing `\\' on input line 838.
 
-LaTeX Font Info:    Trying to load font information for TS1+ptm on input line 747.
+LaTeX Font Info:    Trying to load font information for TS1+ptm on input line 840.
 (/usr/share/texlive/texmf-dist/tex/latex/psnfss/ts1ptm.fd
 File: ts1ptm.fd 2001/06/04 font definitions for TS1/ptm.
-)
-Underfull \hbox (badness 10000) in paragraph at lines 761--762
+) [9]
+Underfull \hbox (badness 10000) in paragraph at lines 854--855
 []\OT1/ptm/m/n/10 Further ex-am-ples can be seen at []$http : / / journals .
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 761--762
+Underfull \hbox (badness 10000) in paragraph at lines 854--855
 \OT1/ptm/m/n/10 ieeeauthorcenter . ieee . org / wp-[]content / uploads / sites / 7 /
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 785--787
+Underfull \hbox (badness 10000) in paragraph at lines 878--880
 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 788--790
+Underfull \hbox (badness 10000) in paragraph at lines 881--883
 
  []
 
-[9] [10]
-LaTeX Font Info:    Trying to load font information for OMS+pcr on input line 1042.
+[10] [11]
+LaTeX Font Info:    Trying to load font information for OMS+pcr on input line 1135.
  (/usr/share/texlive/texmf-dist/tex/latex/psnfss/omspcr.fd
 File: omspcr.fd 
 )
 LaTeX Font Info:    Font shape `OMS/pcr/m/n' in size <10> not available
-(Font)              Font shape `OMS/cmsy/m/n' tried instead on input line 1042.
+(Font)              Font shape `OMS/cmsy/m/n' tried instead on input line 1135.
 
-Underfull \hbox (badness 10000) in paragraph at lines 1058--1059
-
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 1063--1064
+Underfull \hbox (badness 10000) in paragraph at lines 1151--1152
 
  []
 
-[11] (./New_IEEEtran_how-to.bbl [12])
+
+Underfull \hbox (badness 10000) in paragraph at lines 1156--1157
+
+ []
+
+[12] (./New_IEEEtran_how-to.bbl)
 File: fig1.png Graphic file (type png)
 <use fig1.png>
-Package pdftex.def Info: fig1.png  used on input line 1147.
+Package pdftex.def Info: fig1.png  used on input line 1240.
 (pdftex.def)             Requested size: 72.27031pt x 66.77777pt.
 File: fig1.png Graphic file (type png)
 <use fig1.png>
-Package pdftex.def Info: fig1.png  used on input line 1147.
+Package pdftex.def Info: fig1.png  used on input line 1240.
 (pdftex.def)             Requested size: 72.27031pt x 66.77777pt.
  [13] (./New_IEEEtran_how-to.aux)
  ***********
@@ -1057,21 +1212,21 @@ L3 programming layer <2024-01-22>
 LaTeX Warning: There were undefined references.
 
 Package rerunfilecheck Info: File `New_IEEEtran_how-to.out' has not changed.
-(rerunfilecheck)             Checksum: 03E35F73055B2CF0E690B861ACF3A46F;8831.
+(rerunfilecheck)             Checksum: CF7A059CF6330A9B7FE09702432258BE;9538.
  ) 
 Here is how much of TeX's memory you used:
- 24694 strings out of 474222
- 486792 string characters out of 5748732
- 1965975 words of memory out of 5000000
- 46391 multiletter control sequences out of 15000+600000
+ 24706 strings out of 474222
+ 486994 string characters out of 5748732
+ 1969975 words of memory out of 5000000
+ 46397 multiletter control sequences out of 15000+600000
  607619 words of font info for 127 fonts, out of 8000000 for 9000
  1145 hyphenation exceptions out of 8191
  84i,12n,93p,1788b,819s stack positions out of 10000i,1000n,20000p,200000b,200000s
 </usr/share/texlive/texmf-dist/fonts/type1/public/amsfonts/cm/cmex10.pfb></usr/share/texlive/texmf-dist/fonts/type1/public/amsfonts/cm/cmmi10.pfb></usr/share/texlive/texmf-dist/fonts/type1/public/amsfonts/cm/cmmi5.pfb></usr/share/texlive/texmf-dist/fonts/type1/public/amsfonts/cm/cmmi6.pfb></usr/share/texlive/texmf-dist/fonts/type1/public/amsfonts/cm/cmmi7.pfb></usr/share/texlive/texmf-dist/fonts/type1/public/amsfonts/cm/cmmi8.pfb></usr/share/texlive/texmf-dist/fonts/type1/public/amsfonts/cm/cmmi9.pfb></usr/share/texlive/texmf-dist/fonts/type1/public/amsfonts/cm/cmr10.pfb></usr/share/texlive/texmf-dist/fonts/type1/public/amsfonts/cm/cmr6.pfb></usr/share/texlive/texmf-dist/fonts/type1/public/amsfonts/cm/cmr7.pfb></usr/share/texlive/texmf-dist/fonts/type1/public/amsfonts/cm/cmr8.pfb></usr/share/texlive/texmf-dist/fonts/type1/public/amsfonts/cm/cmr9.pfb></usr/share/texlive/texmf-dist/fonts/type1/public/amsfonts/cm/cmsy10.pfb></usr/share/texlive/texmf-dist/fonts/type1/public/amsfonts/cm/cmsy7.pfb></usr/share/texlive/texmf-dist/fonts/type1/public/amsfonts/cm/cmsy8.pfb></usr/share/texlive/texmf-dist/fonts/type1/urw/courier/ucrr8a.pfb></usr/share/texlive/texmf-dist/fonts/type1/urw/times/utmb8a.pfb></usr/share/texlive/texmf-dist/fonts/type1/urw/times/utmbi8a.pfb></usr/share/texlive/texmf-dist/fonts/type1/urw/times/utmr8a.pfb></usr/share/texlive/texmf-dist/fonts/type1/urw/times/utmri8a.pfb>
-Output written on New_IEEEtran_how-to.pdf (13 pages, 327963 bytes).
+Output written on New_IEEEtran_how-to.pdf (13 pages, 332408 bytes).
 PDF statistics:
- 544 PDF objects out of 1000 (max. 8388607)
- 481 compressed objects within 5 object streams
- 122 named destinations out of 1000 (max. 500000)
- 454 words of extra memory for PDF output out of 10000 (max. 10000000)
+ 563 PDF objects out of 1000 (max. 8388607)
+ 500 compressed objects within 5 object streams
+ 128 named destinations out of 1000 (max. 500000)
+ 478 words of extra memory for PDF output out of 10000 (max. 10000000)
 
