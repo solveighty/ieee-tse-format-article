@@ -488,6 +488,39 @@ Time Execution & 6.3679 & 0.0302 & No \\
 \end{tabular}
 \end{table}
 
+\subsection{Parametric analysis (Student's t and Welch)}
+
+Parametric contrasts were applied only at the aggregate level (N = 12), given that this level met the assumption of normality and, for three of the metrics, the assumption of homogeneity of variances. For metrics with homogeneous variances, the standard Student's t-test was used, while for the Time (s) metric, which did not meet homogeneity, the Welch correction variant was applied.
+
+Table~\ref{tab:t-student-welch} presents the results of the parametric tests (Student's t and Welch) applied at the aggregate level.
+
+\begin{table}[!h]
+\caption{\label{tab:t-student-welch}Results of parametric tests (t-Student and Welch).}
+\centering
+\footnotesize
+\begin{tabular}{| p{2.0cm} | p{0.9cm} | p{1.3cm} | p{0.3cm} |}
+\hline
+Metrics & p-value & Cohen's d & Sig. \\
+\hline
+Instr Coverage & 0.9350 & 0.048 & No \\
+\hline
+Branch Coverage & 0.7022 & 0.227 & No \\
+\hline
+Mutation Score & 0.6727 & 0.251 & No \\
+\hline
+Time Execution & 0.2293 & -0.769 & No \\
+\hline
+\end{tabular}
+\end{table}
+
+Figure~\ref{fig:t-student-boxplots} associated with parametric contrasts presents box plots illustrating the distribution of each metric for the two approaches evaluated. Its purpose is solely to provide a descriptive visualization of the central behavior and dispersion of the aggregate values (N = 12). This representation allows us to observe the overlap between groups, but it does not constitute additional evidence beyond the reported inferential results.
+
+\begin{figure*}[t]
+\centering
+\includegraphics[width=0.9\textwidth]{images/06_t_Student_2x2.png}
+\caption{\label{fig:t-student-boxplots}Box plots from parametric analysis (t-Student and Welch) showing the distribution of metrics for both test approaches (Manual vs. AI) at the aggregated level (N = 12).}
+\end{figure*}
+
 \section{How to Create Common Front Matter}
 \noindent The following sections describe general coding for these common elements. Computer Society publications and Conferences may have their own special variations and will be noted below.
 \subsection{Paper Title}
