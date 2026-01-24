@@ -106,4 +106,22 @@ S.~Baltes, F.~Angermeir, C.~Arora, M.~M. Barón, C.~Chen, L.~Böhme, F.~Calefato
 B.~Trinkenreich, F.~Calefato, G.~Hanssen, K.~Blincoe, M.~Kalinowski, M.~Pezzè, P.~Tell, and M.~A. Storey, ``Get on the train or be left on the station: Using llms for software engineering research,'' in \emph{Proceedings of the ACM SIGSOFT Symposium on the Foundations of Software Engineering}.\hskip 1em plus 0.5em minus 0.4em\relax Association for Computing Machinery, 7 2025, pp. 1503--1507. [Online]. Available: \url{https://dl.acm.org/doi/10.1145/3696630.3731666}
 \BIBentrySTDinterwordspacing
 
+\bibitem{Liao2025}
+\BIBentryALTinterwordspacing
+D.~Liao, X.~Yin, S.~Pan, C.~Ni, Z.~Xing, and X.~Sun, ``Navigating the labyrinth: Path-sensitive unit test generation with large language models,'' 10 2025. [Online]. Available: \url{http://arxiv.org/abs/2509.23812}
+\BIBentrySTDinterwordspacing
+
+\bibitem{Plaat2025}
+\BIBentryALTinterwordspacing
+A.~Plaat, M.~van Duijn, N.~van Stein, M.~Preuss, P.~van~der Putten, and K.~J. Batenburg, ``Agentic large language models, a survey,'' 11 2025. [Online]. Available: \url{https://arxiv.org/abs/2503.23037}
+\BIBentrySTDinterwordspacing
+
+\bibitem{Wohlin2012}
+\BIBentryALTinterwordspacing
+C.~Wohlin, P.~Runeson, M.~Hst, M.~C. Ohlsson, B.~Regnell, and A.~Wessln, \emph{Experimentation in Software Engineering}.\hskip 1em plus 0.5em minus 0.4em\relax Springer Publishing Company, Incorporated, 2012. [Online]. Available: \url{https://dl.acm.org/doi/book/10.5555/2349018}
+\BIBentrySTDinterwordspacing
+
+\bibitem{Sjberg2023}
+D.~I. Sjøberg and G.~R. Bergersen, ``Improving the reporting of threats to construct validity,'' in \emph{ACM International Conference Proceeding Series}.\hskip 1em plus 0.5em minus 0.4em\relax Association for Computing Machinery, 6 2023, pp. 205--209.
+
 \end{thebibliography}
