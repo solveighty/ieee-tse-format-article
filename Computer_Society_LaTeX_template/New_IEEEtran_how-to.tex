@@ -521,6 +521,41 @@ Figure~\ref{fig:t-student-boxplots} associated with parametric contrasts present
 \caption{\label{fig:t-student-boxplots}Box plots from parametric analysis (t-Student and Welch) showing the distribution of metrics for both test approaches (Manual vs. AI) at the aggregated level (N = 12).}
 \end{figure*}
 
+\subsection{Non-parametric analysis (Mann-Whitney U)}
+
+Since the entire dataset (N = 2,480) did not meet the normality assumption, the nonparametric Mann-Whitney U test was applied to compare the distributions between the two approaches (manual and AI) for each metric. The contrasts were performed using the individual values per iteration, with the p-value and effect size r.
+
+Table~\ref{tab:mann-whitney-u} presents the results of the Mann-Whitney U test applied at the complete level (N = 2,480).
+
+\begin{table}[!h]
+\caption{\label{tab:mann-whitney-u}Results of non-parametric tests (Mann-Whitney U).}
+\centering
+\footnotesize
+\begin{tabular}{| p{2.0cm} | p{1.0cm} | p{0.7cm} | p{0.5cm} |}
+\hline
+Metrics & p-value & r & Sig. \\
+\hline
+Instr Coverage & 3.20e-13 & 0.145 & Yes \\
+\hline
+Branch Coverage & 5.73e-10 & 0.123 & Yes \\
+\hline
+Mutation Score & 3.82e-03 & 0.057 & Yes \\
+\hline
+Time Execution & 3.74e-05 & 0.082 & Yes \\
+\hline
+\end{tabular}
+\end{table}
+
+Figure~\ref{fig:mann-whitney-violinplots} corresponding to the nonparametric analysis includes violin plots showing the complete shape of the distribution for each metric in both approaches (N = 2,480). This visualization is used solely for descriptive purposes to illustrate the density, variability, and possible asymmetries in the data. No additional analytical conclusions are drawn from these figures, as the inferential evidence is based solely on the results of the Mann-Whitney U test.
+
+\begin{figure*}[t]
+\centering
+\includegraphics[width=0.9\textwidth]{images/07_Mann_Whitney_2x2.png}
+\caption{\label{fig:mann-whitney-violinplots}Violin plots from non-parametric analysis (Mann-Whitney U) showing the distribution shape and density for each metric across both test approaches (Manual vs. AI) at the full individual level (N = 2,480).}
+\end{figure*}
+
+In summary, the results obtained show that, although both approaches—manual and AI-driven—produced comparable metrics across several indicators, subtle differences can be observed in both the distribution and consistency of the values. These variations suggest that automatic generation methods achieve similar levels of performance to manual methods in quantitative terms, but with different behavior patterns, which forms the basis for the interpretive analysis developed in the following section.
+
 \section{How to Create Common Front Matter}
 \noindent The following sections describe general coding for these common elements. Computer Society publications and Conferences may have their own special variations and will be noted below.
 \subsection{Paper Title}

@@ -1,0 +1,73 @@
+This is BibTeX, Version 0.99d (TeX Live 2023/Debian)
+Capacity: max_strings=200000, hash_size=200000, hash_prime=170003
+The top-level auxiliary file: New_IEEEtran_how-to.aux
+The style file: IEEEtran.bst
+Reallocated singl_function (elt_size=4) to 100 items from 50.
+Reallocated singl_function (elt_size=4) to 100 items from 50.
+Reallocated singl_function (elt_size=4) to 100 items from 50.
+Reallocated wiz_functions (elt_size=4) to 6000 items from 3000.
+Reallocated singl_function (elt_size=4) to 100 items from 50.
+Database file #1: references.bib
+Warning--I didn't find a database entry for "ams"
+Warning--I didn't find a database entry for "oxford"
+Warning--I didn't find a database entry for "lacomp"
+-- IEEEtran.bst version 1.14 (2015/08/26) by Michael Shell.
+-- http://www.michaelshell.org/tex/ieeetran/bibtex/
+-- See the "IEEEtran_bst_HOWTO.pdf" manual for usage information.
+Warning--empty journal in Trudova2020
+Warning--missing institution in Garousi2025
+Warning--empty booktitle in Singh2023
+Warning--empty journal in Schfer2023
+Warning--empty journal in Yang2024
+Warning--empty journal in Bhatia2024
+Warning--empty journal in Kirinuki2024
+Warning--empty journal in Ricca2025
+Warning--empty journal in Wang2025
+Warning--empty journal in Junior2023
+Warning--empty journal in Huang2025
+Warning--empty journal in Gkikopouli2023
+Warning--empty journal in Baltes2025
+
+Done.
+You've used 18 entries,
+            4087 wiz_defined-function locations,
+            936 strings with 12403 characters,
+and the built_in function-call counts, 11657 in all, are:
+= -- 815
+> -- 454
+< -- 34
++ -- 228
+- -- 102
+* -- 630
+:= -- 1835
+add.period$ -- 39
+call.type$ -- 18
+change.case$ -- 18
+chr.to.int$ -- 84
+cite$ -- 31
+duplicate$ -- 873
+empty$ -- 924
+format.name$ -- 120
+if$ -- 2606
+int.to.chr$ -- 0
+int.to.str$ -- 18
+missing$ -- 194
+newline$ -- 109
+num.names$ -- 18
+pop$ -- 538
+preamble$ -- 1
+purify$ -- 0
+quote$ -- 2
+skip$ -- 811
+stack$ -- 0
+substring$ -- 218
+swap$ -- 636
+text.length$ -- 6
+text.prefix$ -- 0
+top$ -- 5
+type$ -- 18
+warning$ -- 13
+while$ -- 31
+width$ -- 20
+write$ -- 208
+(There were 16 warnings)
