@@ -331,6 +331,70 @@ N = 12 & 6 & 6 & Independent averages by test class \\
 
 The complete level (N = 2,480) retained all individual records, allowing the intrinsic variability of the measurements to be captured. The aggregated level (N = 12) was obtained by averaging the 40 iterations associated with each test class, generating a balanced and statistically independent set at the class level.
 
+\subsection{Descriptive statistics of the metrics}
+
+Descriptive statistics were used to characterize the overall behavior of the metrics evaluated for both approaches (manual and artificial intelligence), both at the aggregate level (N = 12) and at the complete level of individual records (N = 2,480). For each metric, mean, median, and standard deviation values were calculated to describe the central tendency and variability associated with each test group.
+
+Table~\ref{tab:descriptive-statistics-n12} presents the descriptive measures at the aggregate level, where each value represents the average of 40 iterations per test class.
+
+\begin{table}[!h]
+\caption{\label{tab:descriptive-statistics-n12}Average of 40 iterations per test class (Manual N = 6, AI N = 6).}
+\centering
+\footnotesize
+\begin{tabular}{| p{2.0cm} | p{0.8cm} | p{0.5cm} | p{0.7cm} | p{0.81cm} |}
+\hline
+Metrics & Group & Mean & Median & St Dev. \\
+\hline
+Instr Coverage & Manual & 18.25 & 15.95 & 12.50 \\
+\hline
+Instr Coverage & AI & 17.67 & 16.13 & 11.36 \\
+\hline
+Branch Coverage & Manual & 14.58 & 11.88 & 12.62 \\
+\hline
+Branch Coverage & AI & 12.05 & 9.89 & 9.49 \\
+\hline
+Mutation Score & Manual & 18.52 & 15.28 & 17.71 \\
+\hline
+Mutation Score & AI & 14.76 & 15.11 & 11.61 \\
+\hline
+Time Execution & Manual & 0.082 & 0.071 & 0.069 \\
+\hline
+Time Execution & AI & 0.194 & 0.144 & 0.193 \\
+\hline
+\end{tabular}
+\end{table}
+
+Table~\ref{tab:descriptive-statistics-n2480} illustrates the descriptive measures at the complete level, reflecting the raw distribution across all 2,480 individual records collected during the experiment.
+
+\begin{table}[!h]
+\caption{\label{tab:descriptive-statistics-n2480}Individual records per iteration (Manual N = 1600, AI N = 880).}
+\centering
+\footnotesize
+\begin{tabular}{| p{1.9cm} | p{0.8cm} | p{0.5cm} | p{0.7cm} | p{0.81cm} |}
+\hline
+Metrics & Group & Mean & Median & St Dev. \\
+\hline
+Instr Coverage & Manual & 19.94 & 21.85 & 12.11 \\
+\hline
+Instr Coverage & AI & 14.20 & 10.69 & 8.71 \\
+\hline
+Branch Coverage & Manual & 17.69 & 12.50 & 12.39 \\
+\hline
+Branch Coverage & AI & 13.50 & 16.25 & 6.75 \\
+\hline
+Mutation Score & Manual & 22.92 & 16.67 & 17.19 \\
+\hline
+Mutation Score & AI & 16.63 & 19.44 & 8.16 \\
+\hline
+Time Execution & Manual & 0.079 & 0.012 & 0.178 \\
+\hline
+Time Execution & AI & 0.114 & 0.003 & 0.232 \\
+\hline
+\end{tabular}
+\end{table}
+
+The differences between means and medians observed in some metrics indicate that the data do not follow a completely symmetrical distribution. This behavior is reflected at both levels of analysis and is reported for consideration in subsequent statistical stages.
+
 \section{How to Create Common Front Matter}
 \noindent The following sections describe general coding for these common elements. Computer Society publications and Conferences may have their own special variations and will be noted below.
 \subsection{Paper Title}
