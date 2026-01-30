@@ -79,7 +79,7 @@ In the final phase of statistical analysis, the collected data were processed in
 
 The complete flow of the experimental protocol is presented in Fig.~\ref{fig:experimental-protocol}.
 
-\begin{figure}[!t]
+\begin{figure}[htb]
 \centering
 \begin{tikzpicture}[
   node distance=0.4cm,
@@ -120,6 +120,7 @@ The complete flow of the experimental protocol is presented in Fig.~\ref{fig:exp
 \end{tikzpicture}
 \caption{\label{fig:experimental-protocol}Workflow representing the experimental protocol followed during the study.}
 \end{figure}
+\vspace{-0.5em}
 
 \subsection{Variables and Metrics}
 
@@ -129,7 +130,7 @@ Among the quantitative variables, three main metrics were considered. Code cover
 
 In addition to these quantitative metrics, a qualitative variable called functional comprehension was incorporated, related to the degree of consistency with which each approach represents the internal logic of the system under test. This dimension made it possible to contrast the structural and semantic adequacy of the test cases generated, taking into account recent findings on inconsistencies, omissions, or functional deviations observed in tests generated using language models \cite{Kirinuki2024, Junior2023}. The conceptual structure linking the independent variable with the dependent variables, both quantitative and qualitative, is summarized in Fig.~\ref{fig:variables-metrics}.
 
-\begin{figure}[!t]
+\begin{figure}[htb]
 \centering
 \begin{tikzpicture}[
   node distance=0.5cm,
@@ -195,6 +196,7 @@ In addition to these quantitative metrics, a qualitative variable called functio
 \end{tikzpicture}
 \caption{\label{fig:variables-metrics}Conceptual diagram showing the relationships between the independent variable (test generation approach) and the dependent variables (quantitative and qualitative metrics).}
 \end{figure}
+\vspace{-0.5em}
 
 \subsection{Data Analysis Methods}
 
@@ -206,7 +208,7 @@ The selection of statistical tests depended on the fulfillment of these assumpti
 
 Finally, effect sizes were calculated to complement the statistical interpretation. Cohen's d was used in comparisons made with Student's t-test, and the r measure was used for comparisons based on the Mann-Whitney U test. The combination of descriptive statistics, parametric and nonparametric tests, and effect size calculations ensured a robust, reproducible analysis consistent with best methodological practices in empirical software engineering studies \cite{Garousi2025, Ricca2025, Huang2025}. The decision flowchart used to select the appropriate statistical test is shown in Fig.~\ref{fig:data-analysis}.
 
-\begin{figure}[!t]
+\begin{figure}[htb]
 \centering
 \resizebox{\columnwidth}{!}{%
 \begin{tikzpicture}[

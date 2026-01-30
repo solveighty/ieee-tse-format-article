@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.141592653-2.6-1.40.25 (TeX Live 2023/Debian) (preloaded format=pdflatex 2025.11.13)  24 JAN 2026 14:57
+This is pdfTeX, Version 3.141592653-2.6-1.40.25 (TeX Live 2023/Debian) (preloaded format=pdflatex 2025.11.13)  29 JAN 2026 19:20
 entering extended mode
  restricted \write18 enabled.
  %&-line parsing enabled.
@@ -901,175 +901,154 @@ f-dist/fonts/enc/dvips/base/8r.enc}
 ] [2]
 Underfull \vbox (badness 10000) has occurred while \output is active []
 
-
-Underfull \vbox (badness 10000) has occurred while \output is active []
-
  [3]
-Overfull \hbox (1.47302pt too wide) in paragraph at lines 266--266
+Overfull \hbox (1.47302pt too wide) in paragraph at lines 268--268
  []\OT1/ptm/m/n/9 homogeneity 
  []
 
-
-Underfull \vbox (badness 1371) has occurred while \output is active []
-
- [4]
-Underfull \hbox (badness 2035) in paragraph at lines 282--283
+[4]
+Underfull \hbox (badness 2035) in paragraph at lines 284--285
 []\OT1/ptm/m/n/10 To en-sure com-plete re-pro-ducibil-ity of the study, the
  []
 
 
-Underfull \hbox (badness 6542) in paragraph at lines 282--283
+Underfull \hbox (badness 6542) in paragraph at lines 284--285
 \OT1/ptm/m/n/10 repos-i-tory used dur-ing the ex-per-i-ment|containing all
  []
 
 
-Underfull \hbox (badness 7685) in paragraph at lines 298--299
+Underfull \hbox (badness 7685) in paragraph at lines 300--301
 []|\OT1/ptm/m/n/8 6 Man-ual + 6 AI-
  []
 
 
-Underfull \hbox (badness 2582) in paragraph at lines 304--305
+Underfull \hbox (badness 2582) in paragraph at lines 306--307
 []|\OT1/ptm/m/n/8 instruction%, branch%,
  []
 
 
-Underfull \hbox (badness 4454) in paragraph at lines 313--314
+Underfull \hbox (badness 4454) in paragraph at lines 315--316
 []\OT1/ptm/m/n/10 The raw records gen-er-ated dur-ing the ex-per-i-men-tal
  []
 
 
-Overfull \hbox (0.61908pt too wide) in paragraph at lines 325--325
+Overfull \hbox (0.61908pt too wide) in paragraph at lines 327--327
 []|\OT1/ptm/m/n/8 880| 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 325--326
+Underfull \hbox (badness 10000) in paragraph at lines 327--328
 []|\OT1/ptm/m/n/8 Individual
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 325--326
+Underfull \hbox (badness 10000) in paragraph at lines 327--328
 \OT1/ptm/m/n/8 ob-ser-va-tions per
  []
 
 
-Overfull \hbox (3.98947pt too wide) in paragraph at lines 346--346
+Overfull \hbox (3.98947pt too wide) in paragraph at lines 348--348
 []|\OT1/ptm/m/n/8 Mean| 
  []
 
 
-Overfull \hbox (4.52292pt too wide) in paragraph at lines 346--346
+Overfull \hbox (4.52292pt too wide) in paragraph at lines 348--348
 []|\OT1/ptm/m/n/8 Median| 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 346--347
+Underfull \hbox (badness 10000) in paragraph at lines 348--349
 []|\OT1/ptm/m/n/8 St
  []
 
 
-Overfull \hbox (1.67747pt too wide) in paragraph at lines 348--348
+Overfull \hbox (1.67747pt too wide) in paragraph at lines 350--350
 []|\OT1/ptm/m/n/8 Manual| 
- []
-
-
-Overfull \hbox (3.77364pt too wide) in paragraph at lines 348--348
-[]|\OT1/ptm/m/n/8 18.25| 
  []
 
 
 Overfull \hbox (3.77364pt too wide) in paragraph at lines 350--350
-[]|\OT1/ptm/m/n/8 17.67| 
- []
-
-
-Overfull \hbox (1.67747pt too wide) in paragraph at lines 352--352
-[]|\OT1/ptm/m/n/8 Manual| 
+[]|\OT1/ptm/m/n/8 18.25| 
  []
 
 
 Overfull \hbox (3.77364pt too wide) in paragraph at lines 352--352
-[]|\OT1/ptm/m/n/8 14.58| 
+[]|\OT1/ptm/m/n/8 17.67| 
+ []
+
+
+Overfull \hbox (1.67747pt too wide) in paragraph at lines 354--354
+[]|\OT1/ptm/m/n/8 Manual| 
  []
 
 
 Overfull \hbox (3.77364pt too wide) in paragraph at lines 354--354
-[]|\OT1/ptm/m/n/8 12.05| 
- []
-
-
-Overfull \hbox (1.67747pt too wide) in paragraph at lines 356--356
-[]|\OT1/ptm/m/n/8 Manual| 
+[]|\OT1/ptm/m/n/8 14.58| 
  []
 
 
 Overfull \hbox (3.77364pt too wide) in paragraph at lines 356--356
-[]|\OT1/ptm/m/n/8 18.52| 
+[]|\OT1/ptm/m/n/8 12.05| 
+ []
+
+
+Overfull \hbox (1.67747pt too wide) in paragraph at lines 358--358
+[]|\OT1/ptm/m/n/8 Manual| 
  []
 
 
 Overfull \hbox (3.77364pt too wide) in paragraph at lines 358--358
-[]|\OT1/ptm/m/n/8 14.76| 
- []
-
-
-Overfull \hbox (1.67747pt too wide) in paragraph at lines 360--360
-[]|\OT1/ptm/m/n/8 Manual| 
+[]|\OT1/ptm/m/n/8 18.52| 
  []
 
 
 Overfull \hbox (3.77364pt too wide) in paragraph at lines 360--360
-[]|\OT1/ptm/m/n/8 0.082| 
+[]|\OT1/ptm/m/n/8 14.76| 
+ []
+
+
+Overfull \hbox (1.67747pt too wide) in paragraph at lines 362--362
+[]|\OT1/ptm/m/n/8 Manual| 
  []
 
 
 Overfull \hbox (3.77364pt too wide) in paragraph at lines 362--362
+[]|\OT1/ptm/m/n/8 0.082| 
+ []
+
+
+Overfull \hbox (3.77364pt too wide) in paragraph at lines 364--364
 []|\OT1/ptm/m/n/8 0.194| 
  []
 
 
-Overfull \hbox (3.98947pt too wide) in paragraph at lines 375--375
+Overfull \hbox (3.98947pt too wide) in paragraph at lines 377--377
 []|\OT1/ptm/m/n/8 Mean| 
  []
 
 
-Overfull \hbox (4.52292pt too wide) in paragraph at lines 375--375
+Overfull \hbox (4.52292pt too wide) in paragraph at lines 377--377
 []|\OT1/ptm/m/n/8 Median| 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 375--376
+Underfull \hbox (badness 10000) in paragraph at lines 377--378
 []|\OT1/ptm/m/n/8 St
  []
 
 
-Overfull \hbox (1.67747pt too wide) in paragraph at lines 377--377
+Overfull \hbox (1.67747pt too wide) in paragraph at lines 379--379
 []|\OT1/ptm/m/n/8 Manual| 
- []
-
-
-Overfull \hbox (3.77364pt too wide) in paragraph at lines 377--377
-[]|\OT1/ptm/m/n/8 19.94| 
  []
 
 
 Overfull \hbox (3.77364pt too wide) in paragraph at lines 379--379
-[]|\OT1/ptm/m/n/8 14.20| 
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 381--381
-[]|\OT1/ptm/m/n/8 Branch
- []
-
-
-Overfull \hbox (1.67747pt too wide) in paragraph at lines 381--381
-[]|\OT1/ptm/m/n/8 Manual| 
+[]|\OT1/ptm/m/n/8 19.94| 
  []
 
 
 Overfull \hbox (3.77364pt too wide) in paragraph at lines 381--381
-[]|\OT1/ptm/m/n/8 17.69| 
+[]|\OT1/ptm/m/n/8 14.20| 
  []
 
 
@@ -1078,73 +1057,76 @@ Underfull \hbox (badness 10000) in paragraph at lines 383--383
  []
 
 
+Overfull \hbox (1.67747pt too wide) in paragraph at lines 383--383
+[]|\OT1/ptm/m/n/8 Manual| 
+ []
+
+
 Overfull \hbox (3.77364pt too wide) in paragraph at lines 383--383
-[]|\OT1/ptm/m/n/8 13.50| 
+[]|\OT1/ptm/m/n/8 17.69| 
  []
 
 
-Overfull \hbox (1.67747pt too wide) in paragraph at lines 385--385
-[]|\OT1/ptm/m/n/8 Manual| 
- []
-
-
-Overfull \hbox (3.77364pt too wide) in paragraph at lines 385--385
-[]|\OT1/ptm/m/n/8 22.92| 
- []
-
-
-Overfull \hbox (3.77364pt too wide) in paragraph at lines 387--387
-[]|\OT1/ptm/m/n/8 16.63| 
- []
-
-
-Overfull \hbox (1.67747pt too wide) in paragraph at lines 389--389
-[]|\OT1/ptm/m/n/8 Manual| 
- []
-
-
-Overfull \hbox (3.77364pt too wide) in paragraph at lines 389--389
-[]|\OT1/ptm/m/n/8 0.079| 
- []
-
-
-Overfull \hbox (3.77364pt too wide) in paragraph at lines 391--391
-[]|\OT1/ptm/m/n/8 0.114| 
- []
-
-[5]
-Overfull \hbox (4.43484pt too wide) in paragraph at lines 414--415
-[]|\OT1/ptm/m/n/8 Normality| 
- []
-
-
-Overfull \hbox (1.67747pt too wide) in paragraph at lines 416--416
-[]|\OT1/ptm/m/n/8 Manual| 
- []
-
-
-Overfull \hbox (2.08316pt too wide) in paragraph at lines 416--416
-[]|\OT1/ptm/m/n/8 0.8160| 
- []
-
-
-Overfull \hbox (2.08316pt too wide) in paragraph at lines 418--418
-[]|\OT1/ptm/m/n/8 0.7524| 
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 420--420
+Underfull \hbox (badness 10000) in paragraph at lines 385--385
 []|\OT1/ptm/m/n/8 Branch
  []
 
 
-Overfull \hbox (1.67747pt too wide) in paragraph at lines 420--420
+Overfull \hbox (3.77364pt too wide) in paragraph at lines 385--385
+[]|\OT1/ptm/m/n/8 13.50| 
+ []
+
+
+Overfull \hbox (1.67747pt too wide) in paragraph at lines 387--387
 []|\OT1/ptm/m/n/8 Manual| 
  []
 
 
+Overfull \hbox (3.77364pt too wide) in paragraph at lines 387--387
+[]|\OT1/ptm/m/n/8 22.92| 
+ []
+
+
+Overfull \hbox (3.77364pt too wide) in paragraph at lines 389--389
+[]|\OT1/ptm/m/n/8 16.63| 
+ []
+
+
+Overfull \hbox (1.67747pt too wide) in paragraph at lines 391--391
+[]|\OT1/ptm/m/n/8 Manual| 
+ []
+
+
+Overfull \hbox (3.77364pt too wide) in paragraph at lines 391--391
+[]|\OT1/ptm/m/n/8 0.079| 
+ []
+
+
+Overfull \hbox (3.77364pt too wide) in paragraph at lines 393--393
+[]|\OT1/ptm/m/n/8 0.114| 
+ []
+
+
+LaTeX Warning: `!h' float specifier changed to `!ht'.
+
+[5]
+Overfull \hbox (4.43484pt too wide) in paragraph at lines 416--417
+[]|\OT1/ptm/m/n/8 Normality| 
+ []
+
+
+Overfull \hbox (1.67747pt too wide) in paragraph at lines 418--418
+[]|\OT1/ptm/m/n/8 Manual| 
+ []
+
+
+Overfull \hbox (2.08316pt too wide) in paragraph at lines 418--418
+[]|\OT1/ptm/m/n/8 0.8160| 
+ []
+
+
 Overfull \hbox (2.08316pt too wide) in paragraph at lines 420--420
-[]|\OT1/ptm/m/n/8 0.8178| 
+[]|\OT1/ptm/m/n/8 0.7524| 
  []
 
 
@@ -1153,73 +1135,73 @@ Underfull \hbox (badness 10000) in paragraph at lines 422--422
  []
 
 
+Overfull \hbox (1.67747pt too wide) in paragraph at lines 422--422
+[]|\OT1/ptm/m/n/8 Manual| 
+ []
+
+
 Overfull \hbox (2.08316pt too wide) in paragraph at lines 422--422
-[]|\OT1/ptm/m/n/8 0.8697| 
+[]|\OT1/ptm/m/n/8 0.8178| 
  []
 
 
-Overfull \hbox (1.67747pt too wide) in paragraph at lines 424--424
-[]|\OT1/ptm/m/n/8 Manual| 
- []
-
-
-Overfull \hbox (2.08316pt too wide) in paragraph at lines 424--424
-[]|\OT1/ptm/m/n/8 0.8404| 
- []
-
-
-Overfull \hbox (2.08316pt too wide) in paragraph at lines 426--426
-[]|\OT1/ptm/m/n/8 0.8313| 
- []
-
-
-Overfull \hbox (1.67747pt too wide) in paragraph at lines 428--428
-[]|\OT1/ptm/m/n/8 Manual| 
- []
-
-
-Overfull \hbox (2.08316pt too wide) in paragraph at lines 428--428
-[]|\OT1/ptm/m/n/8 0.4797| 
- []
-
-
-Overfull \hbox (2.08316pt too wide) in paragraph at lines 430--430
-[]|\OT1/ptm/m/n/8 0.5354| 
- []
-
-
-Overfull \hbox (4.43484pt too wide) in paragraph at lines 443--444
-[]|\OT1/ptm/m/n/8 Normality| 
- []
-
-
-Overfull \hbox (1.67747pt too wide) in paragraph at lines 445--445
-[]|\OT1/ptm/m/n/8 Manual| 
- []
-
-
-Overfull \hbox (2.08316pt too wide) in paragraph at lines 445--445
-[]|\OT1/ptm/m/n/8 0.9087| 
- []
-
-
-Overfull \hbox (2.08316pt too wide) in paragraph at lines 447--447
-[]|\OT1/ptm/m/n/8 0.9038| 
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 449--449
+Underfull \hbox (badness 10000) in paragraph at lines 424--424
 []|\OT1/ptm/m/n/8 Branch
  []
 
 
-Overfull \hbox (1.67747pt too wide) in paragraph at lines 449--449
+Overfull \hbox (2.08316pt too wide) in paragraph at lines 424--424
+[]|\OT1/ptm/m/n/8 0.8697| 
+ []
+
+
+Overfull \hbox (1.67747pt too wide) in paragraph at lines 426--426
 []|\OT1/ptm/m/n/8 Manual| 
  []
 
 
+Overfull \hbox (2.08316pt too wide) in paragraph at lines 426--426
+[]|\OT1/ptm/m/n/8 0.8404| 
+ []
+
+
+Overfull \hbox (2.08316pt too wide) in paragraph at lines 428--428
+[]|\OT1/ptm/m/n/8 0.8313| 
+ []
+
+
+Overfull \hbox (1.67747pt too wide) in paragraph at lines 430--430
+[]|\OT1/ptm/m/n/8 Manual| 
+ []
+
+
+Overfull \hbox (2.08316pt too wide) in paragraph at lines 430--430
+[]|\OT1/ptm/m/n/8 0.4797| 
+ []
+
+
+Overfull \hbox (2.08316pt too wide) in paragraph at lines 432--432
+[]|\OT1/ptm/m/n/8 0.5354| 
+ []
+
+
+Overfull \hbox (4.43484pt too wide) in paragraph at lines 445--446
+[]|\OT1/ptm/m/n/8 Normality| 
+ []
+
+
+Overfull \hbox (1.67747pt too wide) in paragraph at lines 447--447
+[]|\OT1/ptm/m/n/8 Manual| 
+ []
+
+
+Overfull \hbox (2.08316pt too wide) in paragraph at lines 447--447
+[]|\OT1/ptm/m/n/8 0.9087| 
+ []
+
+
 Overfull \hbox (2.08316pt too wide) in paragraph at lines 449--449
-[]|\OT1/ptm/m/n/8 0.8807| 
+[]|\OT1/ptm/m/n/8 0.9038| 
  []
 
 
@@ -1228,37 +1210,52 @@ Underfull \hbox (badness 10000) in paragraph at lines 451--451
  []
 
 
-Overfull \hbox (2.08316pt too wide) in paragraph at lines 451--451
-[]|\OT1/ptm/m/n/8 0.9127| 
+Overfull \hbox (1.67747pt too wide) in paragraph at lines 451--451
+[]|\OT1/ptm/m/n/8 Manual| 
  []
 
 
-Overfull \hbox (1.67747pt too wide) in paragraph at lines 453--453
-[]|\OT1/ptm/m/n/8 Manual| 
+Overfull \hbox (2.08316pt too wide) in paragraph at lines 451--451
+[]|\OT1/ptm/m/n/8 0.8807| 
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 453--453
+[]|\OT1/ptm/m/n/8 Branch
  []
 
 
 Overfull \hbox (2.08316pt too wide) in paragraph at lines 453--453
-[]|\OT1/ptm/m/n/8 0.9132| 
+[]|\OT1/ptm/m/n/8 0.9127| 
  []
 
 
-Overfull \hbox (2.08316pt too wide) in paragraph at lines 455--455
-[]|\OT1/ptm/m/n/8 0.9720| 
- []
-
-
-Overfull \hbox (1.67747pt too wide) in paragraph at lines 457--457
+Overfull \hbox (1.67747pt too wide) in paragraph at lines 455--455
 []|\OT1/ptm/m/n/8 Manual| 
  []
 
 
+Overfull \hbox (2.08316pt too wide) in paragraph at lines 455--455
+[]|\OT1/ptm/m/n/8 0.9132| 
+ []
+
+
 Overfull \hbox (2.08316pt too wide) in paragraph at lines 457--457
-[]|\OT1/ptm/m/n/8 0.9296| 
+[]|\OT1/ptm/m/n/8 0.9720| 
+ []
+
+
+Overfull \hbox (1.67747pt too wide) in paragraph at lines 459--459
+[]|\OT1/ptm/m/n/8 Manual| 
  []
 
 
 Overfull \hbox (2.08316pt too wide) in paragraph at lines 459--459
+[]|\OT1/ptm/m/n/8 0.9296| 
+ []
+
+
+Overfull \hbox (2.08316pt too wide) in paragraph at lines 461--461
 []|\OT1/ptm/m/n/8 0.8507| 
  []
 
@@ -1266,18 +1263,13 @@ Overfull \hbox (2.08316pt too wide) in paragraph at lines 459--459
 LaTeX Warning: `!h' float specifier changed to `!ht'.
 
 
-Overfull \hbox (6.56299pt too wide) in paragraph at lines 478--479
+Overfull \hbox (6.56299pt too wide) in paragraph at lines 480--481
 []|\OT1/ptm/m/n/8 Homogeneity| 
  []
 
 
-Overfull \hbox (4.13597pt too wide) in paragraph at lines 503--504
+Overfull \hbox (4.13597pt too wide) in paragraph at lines 505--506
 []|\OT1/ptm/m/n/8 Sig.| 
- []
-
-
-Overfull \hbox (1.24007pt too wide) in paragraph at lines 505--506
-[]|\OT1/ptm/m/n/8 No| 
  []
 
 
@@ -1295,20 +1287,29 @@ Overfull \hbox (1.24007pt too wide) in paragraph at lines 511--512
 []|\OT1/ptm/m/n/8 No| 
  []
 
-[6]
-<images/06_t_Student_2x2.png, id=242, 1004.553pt x 722.7pt>
+
+Overfull \hbox (1.24007pt too wide) in paragraph at lines 513--514
+[]|\OT1/ptm/m/n/8 No| 
+ []
+
+<images/06_t_Student_2x2.png, id=233, 1004.553pt x 722.7pt>
 File: images/06_t_Student_2x2.png Graphic file (type png)
 <use images/06_t_Student_2x2.png>
-Package pdftex.def Info: images/06_t_Student_2x2.png  used on input line 520.
+Package pdftex.def Info: images/06_t_Student_2x2.png  used on input line 522.
 (pdftex.def)             Requested size: 464.39685pt x 334.10016pt.
+[6]
 <images/07_Mann_Whitney_2x2.png, id=246, 1004.553pt x 722.7pt>
 File: images/07_Mann_Whitney_2x2.png Graphic file (type png)
 <use images/07_Mann_Whitney_2x2.png>
-Package pdftex.def Info: images/07_Mann_Whitney_2x2.png  used on input line 553
+Package pdftex.def Info: images/07_Mann_Whitney_2x2.png  used on input line 555
 .
 (pdftex.def)             Requested size: 464.39685pt x 334.10016pt.
- [7 <./images/06_t_Student_2x2.png>] [8 <./images/07_Mann_Whitney_2x2.png>]
-[9] (./New_IEEEtran_how-to.bbl [10]) [11] (./New_IEEEtran_how-to.aux)
+ [7 <./images/06_t_Student_2x2.png>]
+Underfull \vbox (badness 10000) has occurred while \output is active []
+
+ [8 <./images/07_Mann_Whitney_2x2.png>] [9] (./New_IEEEtran_how-to.bbl [10]) [1
+1]
+(./New_IEEEtran_how-to.aux)
  ***********
 LaTeX2e <2023-11-01> patch level 1
 L3 programming layer <2024-01-22>
@@ -1334,7 +1335,7 @@ nts/type1/public/amsfonts/cm/cmr9.pfb></usr/share/texlive/texmf-dist/fonts/type
 imes/utmb8a.pfb></usr/share/texlive/texmf-dist/fonts/type1/urw/times/utmbi8a.pf
 b></usr/share/texlive/texmf-dist/fonts/type1/urw/times/utmr8a.pfb></usr/share/t
 exlive/texmf-dist/fonts/type1/urw/times/utmri8a.pfb>
-Output written on New_IEEEtran_how-to.pdf (11 pages, 1032599 bytes).
+Output written on New_IEEEtran_how-to.pdf (11 pages, 1032606 bytes).
 PDF statistics:
  379 PDF objects out of 1000 (max. 8388607)
  336 compressed objects within 4 object streams

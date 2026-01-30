@@ -7,7 +7,8 @@
 \providecommand{\BIBentrySTDinterwordspacing}{\spaceskip=0pt\relax}
 \providecommand{\BIBentryALTinterwordstretchfactor}{4}
 \providecommand{\BIBentryALTinterwordspacing}{\spaceskip=\fontdimen2\font plus
-\BIBentryALTinterwordstretchfactor\fontdimen3\font minus \fontdimen4\font\relax}
+\BIBentryALTinterwordstretchfactor\fontdimen3\font minus
+  \fontdimen4\font\relax}
 \providecommand{\BIBforeignlanguage}[2]{{%
 \expandafter\ifx\csname l@#1\endcsname\relax
 \typeout{** WARNING: IEEEtran.bst: No hyphenation pattern has been}%
@@ -21,107 +22,173 @@
 \BIBdecl
 
 \bibitem{Trudova2020}
-A.~Trudova, M.~Dolezel, and A.~Buchalcevova, ``Artificial intelligence in software test automation: A systematic literature review,'' pp. 181--192, 2020.
+A.~Trudova, M.~Dolezel, and A.~Buchalcevova, ``Artificial intelligence in
+  software test automation: A systematic literature review,'' pp. 181--192,
+  2020.
 
 \bibitem{Garousi2025}
 \BIBentryALTinterwordspacing
-V.~Garousi, Z.~Jafarov, A.~B. Keleş, S.~Değirmenci, E.~Özdemir Testinium~AŞ, and R.~Zarringhalami, ``Ai-powered software testing tools: A systematic review and empirical assessment of their features and limitations,'' Tech. Rep., 5 2025. [Online]. Available: \url{https://arxiv.org/abs/2409.00411}
+V.~Garousi, Z.~Jafarov, A.~B. Keleş, S.~Değirmenci, E.~Özdemir
+  Testinium~AŞ, and R.~Zarringhalami, ``Ai-powered software testing tools: A
+  systematic review and empirical assessment of their features and
+  limitations,'' Tech. Rep., 5 2025. [Online]. Available:
+  \url{https://arxiv.org/abs/2409.00411}
 \BIBentrySTDinterwordspacing
 
 \bibitem{Singh2023}
-A.~Singh and O.~Al-Azzam, ``Artificial intelligence applied to software testing.''\hskip 1em plus 0.5em minus 0.4em\relax Academy and Industry Research Collaboration Center (AIRCC), 11 2023, pp. 01--12.
+A.~Singh and O.~Al-Azzam, ``Artificial intelligence applied to software
+  testing.''\hskip 1em plus 0.5em minus 0.4em\relax Academy and Industry
+  Research Collaboration Center (AIRCC), 11 2023, pp. 01--12.
 
 \bibitem{Li2025}
 \BIBentryALTinterwordspacing
-T.~Li, C.~Cui, R.~Huang, D.~Towey, and L.~Ma, ``Large language models for automated web-form-test generation: An empirical study,'' \emph{ACM Transactions on Software Engineering and Methodology}, 5 2025. [Online]. Available: \url{https://doi.org/10.1145/3735553}
+T.~Li, C.~Cui, R.~Huang, D.~Towey, and L.~Ma, ``Large language models for
+  automated web-form-test generation: An empirical study,'' \emph{ACM
+  Transactions on Software Engineering and Methodology}, 5 2025. [Online].
+  Available: \url{https://doi.org/10.1145/3735553}
 \BIBentrySTDinterwordspacing
 
 \bibitem{Alshahwan2024}
 \BIBentryALTinterwordspacing
-N.~Alshahwan, J.~Chheda, A.~Finegenova, B.~Gokkaya, M.~Harman, I.~Harper, A.~Marginean, S.~Sengupta, and E.~Wang, ``Automated unit test improvement using large language models at meta,'' in \emph{FSE Companion - Companion Proceedings of the 32nd ACM International Conference on the Foundations of Software Engineering}.\hskip 1em plus 0.5em minus 0.4em\relax Association for Computing Machinery, Inc, 2024, pp. 185--196. [Online]. Available: \url{https://arxiv.org/abs/2402.09171}
+N.~Alshahwan, J.~Chheda, A.~Finegenova, B.~Gokkaya, M.~Harman, I.~Harper,
+  A.~Marginean, S.~Sengupta, and E.~Wang, ``Automated unit test improvement
+  using large language models at meta,'' in \emph{FSE Companion - Companion
+  Proceedings of the 32nd ACM International Conference on the Foundations of
+  Software Engineering}.\hskip 1em plus 0.5em minus 0.4em\relax Association for
+  Computing Machinery, Inc, 2024, pp. 185--196. [Online]. Available:
+  \url{https://arxiv.org/abs/2402.09171}
 \BIBentrySTDinterwordspacing
 
 \bibitem{Schfer2023}
 \BIBentryALTinterwordspacing
-M.~Schäfer, S.~Nadi, A.~Eghbali, and F.~Tip, ``An empirical evaluation of using large language models for automated unit test generation,'' 12 2023. [Online]. Available: \url{https://arxiv.org/abs/2302.06527}
+M.~Schäfer, S.~Nadi, A.~Eghbali, and F.~Tip, ``An empirical evaluation of
+  using large language models for automated unit test generation,'' 12 2023.
+  [Online]. Available: \url{https://arxiv.org/abs/2302.06527}
 \BIBentrySTDinterwordspacing
 
 \bibitem{Yang2024}
 \BIBentryALTinterwordspacing
-L.~Yang, C.~Yang, S.~Gao, W.~Wang, B.~Wang, Q.~Zhu, X.~Chu, J.~Zhou, G.~Liang, Q.~Wang, and J.~Chen, ``An empirical study of unit test generation with large language models.'' 9 2024. [Online]. Available: \url{https://arxiv.org/abs/2406.18181}
+L.~Yang, C.~Yang, S.~Gao, W.~Wang, B.~Wang, Q.~Zhu, X.~Chu, J.~Zhou, G.~Liang,
+  Q.~Wang, and J.~Chen, ``An empirical study of unit test generation with large
+  language models.'' 9 2024. [Online]. Available:
+  \url{https://arxiv.org/abs/2406.18181}
 \BIBentrySTDinterwordspacing
 
 \bibitem{Bhatia2024}
 \BIBentryALTinterwordspacing
-S.~Bhatia, T.~Gandhi, D.~Kumar, and P.~Jalote, ``Unit test generation using generative ai : A comparative performance analysis of autogeneration tools,'' 2 2024. [Online]. Available: \url{https://arxiv.org/abs/2312.10622}
+S.~Bhatia, T.~Gandhi, D.~Kumar, and P.~Jalote, ``Unit test generation using
+  generative ai : A comparative performance analysis of autogeneration tools,''
+  2 2024. [Online]. Available: \url{https://arxiv.org/abs/2312.10622}
 \BIBentrySTDinterwordspacing
 
 \bibitem{RoshniKanth2023}
 \BIBentryALTinterwordspacing
-R.~Kanth, R.~Guru, M.~B. K, and D.~Akshaya, ``Ai vs. conventional testing: A comprehensive comparison of effectiveness \&efficiency,'' \emph{Educational Administration: Theory and Practice}, 1 2023. [Online]. Available: \url{https://kuey.net/index.php/kuey/article/view/7495}
+R.~Kanth, R.~Guru, M.~B. K, and D.~Akshaya, ``Ai vs. conventional testing: A
+  comprehensive comparison of effectiveness \&efficiency,'' \emph{Educational
+  Administration: Theory and Practice}, 1 2023. [Online]. Available:
+  \url{https://kuey.net/index.php/kuey/article/view/7495}
 \BIBentrySTDinterwordspacing
 
 \bibitem{Kirinuki2024}
 \BIBentryALTinterwordspacing
-H.~Kirinuki and H.~Tanno, ``Chatgpt and human synergy in black-box testing: A comparative analysis,'' 1 2024. [Online]. Available: \url{https://arxiv.org/abs/2401.13924}
+H.~Kirinuki and H.~Tanno, ``Chatgpt and human synergy in black-box testing: A
+  comparative analysis,'' 1 2024. [Online]. Available:
+  \url{https://arxiv.org/abs/2401.13924}
 \BIBentrySTDinterwordspacing
 
 \bibitem{Ricca2025}
 \BIBentryALTinterwordspacing
-F.~Ricca, A.~Marchetto, and A.~Stocco, ``A multi-year grey literature review on ai-assisted test automation,'' 1 2025. [Online]. Available: \url{https://arxiv.org/abs/2408.06224}
+F.~Ricca, A.~Marchetto, and A.~Stocco, ``A multi-year grey literature review on
+  ai-assisted test automation,'' 1 2025. [Online]. Available:
+  \url{https://arxiv.org/abs/2408.06224}
 \BIBentrySTDinterwordspacing
 
 \bibitem{Wang2025}
 \BIBentryALTinterwordspacing
-G.~Wang, Q.~Xu, L.~C. Briand, and K.~Liu, ``Mutation-guided unit test generation with a large language model,'' 8 2025. [Online]. Available: \url{https://arxiv.org/abs/2506.02954}
+G.~Wang, Q.~Xu, L.~C. Briand, and K.~Liu, ``Mutation-guided unit test
+  generation with a large language model,'' 8 2025. [Online]. Available:
+  \url{https://arxiv.org/abs/2506.02954}
 \BIBentrySTDinterwordspacing
 
 \bibitem{Junior2023}
 \BIBentryALTinterwordspacing
-R.~F. de~Lima~Junior, L.~F.~P. de~Barros~Presta, L.~S. Borborema, V.~N. da~Silva, M.~L. de~Melo~Dahia, and A.~C.~S. e~Santos, ``A case study on test case construction with large language models: Unveiling practical insights and challenges,'' 12 2023. [Online]. Available: \url{https://arxiv.org/abs/2312.12598}
+R.~F. de~Lima~Junior, L.~F.~P. de~Barros~Presta, L.~S. Borborema, V.~N.
+  da~Silva, M.~L. de~Melo~Dahia, and A.~C.~S. e~Santos, ``A case study on test
+  case construction with large language models: Unveiling practical insights
+  and challenges,'' 12 2023. [Online]. Available:
+  \url{https://arxiv.org/abs/2312.12598}
 \BIBentrySTDinterwordspacing
 
 \bibitem{Rehan2025}
 \BIBentryALTinterwordspacing
-S.~Rehan, B.~Al-Bander, and A.~A.-S. Ahmad, ``Harnessing large language models for automated software testing: A leap towards scalable test case generation,'' \emph{Electronics (Switzerland)}, vol.~14, 4 2025. [Online]. Available: \url{https://www.mdpi.com/2079-9292/14/7/1463}
+S.~Rehan, B.~Al-Bander, and A.~A.-S. Ahmad, ``Harnessing large language models
+  for automated software testing: A leap towards scalable test case
+  generation,'' \emph{Electronics (Switzerland)}, vol.~14, 4 2025. [Online].
+  Available: \url{https://www.mdpi.com/2079-9292/14/7/1463}
 \BIBentrySTDinterwordspacing
 
 \bibitem{Huang2025}
 \BIBentryALTinterwordspacing
-D.~Huang, J.~M. Zhang, M.~Harman, Q.~Zhang, M.~Du, and S.-K. Ng, ``Benchmarking llms for unit test generation from real-world functions,'' 8 2025. [Online]. Available: \url{https://arxiv.org/abs/2508.00408}
+D.~Huang, J.~M. Zhang, M.~Harman, Q.~Zhang, M.~Du, and S.-K. Ng, ``Benchmarking
+  llms for unit test generation from real-world functions,'' 8 2025. [Online].
+  Available: \url{https://arxiv.org/abs/2508.00408}
 \BIBentrySTDinterwordspacing
 
 \bibitem{Gkikopouli2023}
 \BIBentryALTinterwordspacing
-M.~Gkikopouli and B.~Bataa, ``Empirical comparison between conventional and ai-based automated unit test generation tools in java,'' p.~30, 6 2023. [Online]. Available: \url{https://www.diva-portal.org/smash/record.jsf?pid=diva2%3A1764443&dswid=4942}
+M.~Gkikopouli and B.~Bataa, ``Empirical comparison between conventional and
+  ai-based automated unit test generation tools in java,'' p.~30, 6 2023.
+  [Online]. Available:
+  \url{https://www.diva-portal.org/smash/record.jsf?pid=diva2%3A1764443&dswid=4942}
 \BIBentrySTDinterwordspacing
 
 \bibitem{Baltes2025}
 \BIBentryALTinterwordspacing
-S.~Baltes, F.~Angermeir, C.~Arora, M.~M. Barón, C.~Chen, L.~Böhme, F.~Calefato, N.~Ernst, D.~Falessi, B.~Fitzgerald, D.~Fucci, M.~Kalinowski, S.~Lambiase, D.~Russo, M.~Lungu, L.~Prechelt, P.~Ralph, R.~van Tonder, C.~Treude, and S.~Wagner, ``Guidelines for empirical studies in software engineering involving large language models,'' 9 2025. [Online]. Available: \url{https://arxiv.org/abs/2508.15503}
+S.~Baltes, F.~Angermeir, C.~Arora, M.~M. Barón, C.~Chen, L.~Böhme,
+  F.~Calefato, N.~Ernst, D.~Falessi, B.~Fitzgerald, D.~Fucci, M.~Kalinowski,
+  S.~Lambiase, D.~Russo, M.~Lungu, L.~Prechelt, P.~Ralph, R.~van Tonder,
+  C.~Treude, and S.~Wagner, ``Guidelines for empirical studies in software
+  engineering involving large language models,'' 9 2025. [Online]. Available:
+  \url{https://arxiv.org/abs/2508.15503}
 \BIBentrySTDinterwordspacing
 
 \bibitem{Trinkenreich2025}
 \BIBentryALTinterwordspacing
-B.~Trinkenreich, F.~Calefato, G.~Hanssen, K.~Blincoe, M.~Kalinowski, M.~Pezzè, P.~Tell, and M.~A. Storey, ``Get on the train or be left on the station: Using llms for software engineering research,'' in \emph{Proceedings of the ACM SIGSOFT Symposium on the Foundations of Software Engineering}.\hskip 1em plus 0.5em minus 0.4em\relax Association for Computing Machinery, 7 2025, pp. 1503--1507. [Online]. Available: \url{https://dl.acm.org/doi/10.1145/3696630.3731666}
+B.~Trinkenreich, F.~Calefato, G.~Hanssen, K.~Blincoe, M.~Kalinowski, M.~Pezzè,
+  P.~Tell, and M.~A. Storey, ``Get on the train or be left on the station:
+  Using llms for software engineering research,'' in \emph{Proceedings of the
+  ACM SIGSOFT Symposium on the Foundations of Software Engineering}.\hskip 1em
+  plus 0.5em minus 0.4em\relax Association for Computing Machinery, 7 2025, pp.
+  1503--1507. [Online]. Available:
+  \url{https://dl.acm.org/doi/10.1145/3696630.3731666}
 \BIBentrySTDinterwordspacing
 
 \bibitem{Liao2025}
 \BIBentryALTinterwordspacing
-D.~Liao, X.~Yin, S.~Pan, C.~Ni, Z.~Xing, and X.~Sun, ``Navigating the labyrinth: Path-sensitive unit test generation with large language models,'' 10 2025. [Online]. Available: \url{http://arxiv.org/abs/2509.23812}
+D.~Liao, X.~Yin, S.~Pan, C.~Ni, Z.~Xing, and X.~Sun, ``Navigating the
+  labyrinth: Path-sensitive unit test generation with large language models,''
+  10 2025. [Online]. Available: \url{http://arxiv.org/abs/2509.23812}
 \BIBentrySTDinterwordspacing
 
 \bibitem{Plaat2025}
 \BIBentryALTinterwordspacing
-A.~Plaat, M.~van Duijn, N.~van Stein, M.~Preuss, P.~van~der Putten, and K.~J. Batenburg, ``Agentic large language models, a survey,'' 11 2025. [Online]. Available: \url{https://arxiv.org/abs/2503.23037}
+A.~Plaat, M.~van Duijn, N.~van Stein, M.~Preuss, P.~van~der Putten, and K.~J.
+  Batenburg, ``Agentic large language models, a survey,'' 11 2025. [Online].
+  Available: \url{https://arxiv.org/abs/2503.23037}
 \BIBentrySTDinterwordspacing
 
 \bibitem{Wohlin2012}
 \BIBentryALTinterwordspacing
-C.~Wohlin, P.~Runeson, M.~Hst, M.~C. Ohlsson, B.~Regnell, and A.~Wessln, \emph{Experimentation in Software Engineering}.\hskip 1em plus 0.5em minus 0.4em\relax Springer Publishing Company, Incorporated, 2012. [Online]. Available: \url{https://dl.acm.org/doi/book/10.5555/2349018}
+C.~Wohlin, P.~Runeson, M.~Hst, M.~C. Ohlsson, B.~Regnell, and A.~Wessln,
+  \emph{Experimentation in Software Engineering}.\hskip 1em plus 0.5em minus
+  0.4em\relax Springer Publishing Company, Incorporated, 2012. [Online].
+  Available: \url{https://dl.acm.org/doi/book/10.5555/2349018}
 \BIBentrySTDinterwordspacing
 
 \bibitem{Sjberg2023}
-D.~I. Sjøberg and G.~R. Bergersen, ``Improving the reporting of threats to construct validity,'' in \emph{ACM International Conference Proceeding Series}.\hskip 1em plus 0.5em minus 0.4em\relax Association for Computing Machinery, 6 2023, pp. 205--209.
+D.~I. Sjøberg and G.~R. Bergersen, ``Improving the reporting of threats to
+  construct validity,'' in \emph{ACM International Conference Proceeding
+  Series}.\hskip 1em plus 0.5em minus 0.4em\relax Association for Computing
+  Machinery, 6 2023, pp. 205--209.
 
 \end{thebibliography}
